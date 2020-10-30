@@ -1,2 +1,4 @@
-# retrigger-jenkins-build
-This repository contains a little script to re-run jenkins job with groovy. This should be run in &lt;jenkins-url>/script.
+# groovy-hacks
+This repository contains collection of scripts for groovy hacks.
+
+rebuild.grrovy re-runs jenkins job with groovy. This should be run in &lt;jenkins-url>/script.
